@@ -1,0 +1,6 @@
+[submodule "turbulenz_engine"]
+	path = turbulenz_engine
+	url = https://github.com/turbulenz/turbulenz_engine
+[submodule "irrlicht-mirror"]
+	path = irrlicht-mirror
+	url = https://github.com/PittLAN/irrlicht-mirror
