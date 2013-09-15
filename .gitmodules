@@ -4,3 +4,6 @@
 [submodule "irrlicht-mirror"]
 	path = irrlicht-mirror
 	url = https://github.com/PittLAN/irrlicht-mirror
+[submodule "EaselJS"]
+	path = EaselJS
+	url = https://github.com/CreateJS/EaselJS/
